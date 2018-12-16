@@ -51,8 +51,8 @@ Installation
 Requirements:
 
 * Python 2.7+ or 3.4+
-* `Django`_ 1.8 through 1.11
-* `Django Rest Framework`_ 3.4 or 3.5
+* `Django`_ 1.8 through 1.11, 2.0 through 2.1
+* `Django Rest Framework`_ 3.4 through 3.9
 * `mohawk`_
 
 (Older versions of these libraries may work, but support is not guaranteed.)
